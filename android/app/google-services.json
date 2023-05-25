@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162431345177",
+    "project_id": "ijob-c87c0",
+    "storage_bucket": "ijob-c87c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162431345177:android:1c7c007da142d2b2c1c088",
+        "android_client_info": {
+          "package_name": "sushant.jobhunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162431345177-4ef0bs95ljdacgpu120lg9urih10fq3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwKrnOY7e6B8qd92XqIgPaf1t5IPIE13Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162431345177-4ef0bs95ljdacgpu120lg9urih10fq3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
